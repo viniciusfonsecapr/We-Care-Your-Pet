@@ -1,0 +1,156 @@
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+}
+header {
+  margin-left: 76px;
+  margin-top: 44px;
+}
+li {
+  display: inline;
+  padding-right: 23px;
+  text-decoration: none;
+  list-style: none;
+  color: #989d9c;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+#log-in {
+  display: inline;
+  width: 130px;
+  height: 41px;
+  background: #665ae1;
+  border-radius: 20.5px;
+  text-decoration: none;
+  border: none;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+img {
+  display: inline;
+  width: 568px;
+  height: 500px;
+  margin-top: 217px;
+  margin-left: 125px;
+}
+
+h1 {
+  display: flex;
+  position: sticky;
+  width: 513px;
+  height: 122px;
+  margin-top: -528px;
+  margin-left: 779px;
+  margin-right: 148px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 100px;
+  line-height: 122px;
+  color: #515151;
+}
+
+h2 {
+  width: 448px;
+  height: 71px;
+  margin-left: 779px;
+  margin-bottom: 32px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 71px;
+  color: #515151;
+}
+
+p {
+  display: block;
+  width: 515px;
+  height: 87px;
+  margin-left: 779px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #848484;
+}
+
+#explore {
+  width: 239px;
+  height: 64px;
+  background: #adff00;
+  border-radius: 30px;
+  border: none;
+  margin-left: 779px;
+  margin-top: 65px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+
+  color: #000000;
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    display: block;
+    background: #ffffff;
+    margin: 0;
+    
+  }
+  header li {
+    display: none;
+  }
+  #log-in {
+    display: none;
+  }
+  img {
+    display: block;
+    margin-top: 149px;
+    width: 354px;
+    height: 317px;
+    margin-left: 15px;
+    margin-right: 20px;
+  }
+  h1 {
+    display: block;
+    width: 263px;
+    height: 52px;
+    margin-bottom: 7px;
+    margin-top: 24px;
+    margin-left: 64px;
+    margin-right: 64px;
+    font-weight: 900;
+    font-size: 50px;
+    color: #515151;
+  }
+  h2 {
+    display: block;
+    width: 232px;
+    height: 37px;
+    margin-top: 14px;
+    margin-left: 79px;
+    margin-right: 79px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    color: #515151;
+  }
+  p {
+      display: none;
+  }
+  #explore {
+      margin-top: 17px;
+      margin-left: 76px;
+      margin-right: 75px;
+    background: #ADFF00;
+    border-radius: 30.5px;
+  }
+}
