@@ -19,6 +19,9 @@ li {
   font-weight: 600;
   font-size: 20px;
 }
+li:hover{
+  cursor: pointer;
+}
 
 
 #log-in {
@@ -168,4 +171,8 @@ p {
     background: #ADFF00;
     border-radius: 30.5px;
   }
+  #explore:hover{
+    cursor: pointer;
+  }
+  
 }
