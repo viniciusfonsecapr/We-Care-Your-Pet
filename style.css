@@ -9,6 +9,9 @@ header {
   margin-left: 76px;
   margin-top: 44px;
 }
+a {
+  text-decoration: none;
+}
 li {
   display: inline;
   padding-right: 23px;
@@ -18,9 +21,11 @@ li {
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
+  
 }
 li:hover{
   cursor: pointer;
+  text-decoration: none;
 }
 
 
