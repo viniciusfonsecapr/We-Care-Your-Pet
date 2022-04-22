@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   background: #ffffff;
+  max-width: 1440px;
 }
 header {
   margin-left: 76px;
