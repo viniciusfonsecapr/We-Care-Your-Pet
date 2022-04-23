@@ -32,10 +32,10 @@ We Care Your Pet é uma landing page de captação de cliente para lojas de pets
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
+$ git clone 
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd README
 
 # Vá para a pasta da aplicação Front End
 $ cd web
