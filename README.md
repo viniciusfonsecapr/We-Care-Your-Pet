@@ -27,31 +27,6 @@ We Care Your Pet é uma landing page de captação de cliente para lojas de pets
 
 ---
 
-#### 🧭 Rodando a aplicação web (Frontend)
-
-```bash
-
-# Clone este repositório
-$ git clone 
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd README
-
-# Vá para a pasta da aplicação Front End
-$ cd web
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
-```
-
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -75,7 +50,7 @@ Vinicius Fonseca
 
 
 
-Feito com ❤️ por Vinicius Fonseca 👋🏽 [Entre em contato!](https://www.linkedin.com/in/vinicius-f-39a73413b/)
+Feito com ❤️ por Vinicius Fonseca 👋🏽 [Entre em contato!](https://www.linkedin.com/in/viniciusfonsecapr)
 
 ---
 
